@@ -1,20 +1,21 @@
 {
   "name": "ungit",
   "main": "./lib/ungit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "remove git integration from atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/kimstebel/ungit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
-  "contributors": [{
-    "name": "Jack Filose"
-  }, {
-    "name": "Kim Stebel"
-  }]
+  "dependencies": {},
+  "contributors": [
+    {
+      "name": "Jack Filose"
+    },
+    {
+      "name": "Kim Stebel"
+    }
+  ]
 }
